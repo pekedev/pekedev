@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Gerónimo — pekedev 👋
 
-<!--
-**pekedev/pekedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Backend developer in training · Argentina 🇦🇷
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Who am I
+
+21 y/o software development student.  
+Building my path as a backend developer — focused on clean APIs and solid architecture.
+
+---
+
+### Currently working on
+
+Going deeper into Spring Boot — REST architecture, security, and data persistence.
+
+---
+
+### Tools I use
+
+`Java` `Spring Boot` `PostgreSQL` `SQL` `Git` `GitHub`
+
+---
+
+### Reach me
+
+✉ [gerodesarrollo@gmail.com](mailto:gerodesarrollo@gmail.com)
