@@ -1,25 +1,33 @@
-# Hi, I'm Gerónimo — pekedev 👋
+# hey, I'm Gerónimo 👋
 
-> Backend developer in training · Argentina 🇦🇷
+21 · software dev student · Argentina 🇦🇷
 
 ---
 
-### Who am I
+### Who am i
 
-21 y/o software development student.  
-Building my path as a backend developer — focused on clean APIs and solid architecture.
+Backend developer in training, focused on building things with Java and Spring Boot.  
+I like writing code that actually makes sense — clean, structured, no mystery.
 
 ---
 
 ### Currently working on
 
-Going deeper into Spring Boot — REST architecture, security, and data persistence.
+Getting deeper into Spring Boot — REST APIs, security, persistence.  
+Learning by building, one endpoint at a time.
 
 ---
 
-### Tools I use
+### Tools
 
 `Java` `Spring Boot` `PostgreSQL` `SQL` `Git` `GitHub`
+
+---
+
+### Fun facts
+
+* ☕ coffee-powered. always.  
+* 🎮 if there's a ranked mode, I'm playing it.
 
 ---
 
